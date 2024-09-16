@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @Yvan39
 - 👀 I’m interested in Computer Programming
-- 🌱 I’m currently learning JavaScript/Git
+- 🌱 I’m currently learning Java/PHP/Git
 - 📫 How to reach me /21-38474@g.batstate-u.edu.ph
 - 👨‍💻 Technical skills: basics of Visual Basic/Phyton/C++/html php with MySql Xampp as database ....
 <!---
